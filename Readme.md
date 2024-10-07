@@ -25,8 +25,8 @@ Certifique-se de ter o Python 3 instalado em sua máquina. Você pode baixar o P
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/SendMailsApp.git
-cd SendMailsApp
+git clone https://github.com/brunagoncalves/sendmailapp.git
+cd sendmailapp
 ```
 
 2. **Crie e ative um ambiente virtual (opcional, mas recomendado):**
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ### 📂 Estrutura do Projeto
 
 ```bash
-SendMailsApp/
+sendmailapp/
 ├── icon.ico               # Ícone para Windows
 ├── icon.png               # Ícone para outros sistemas operacionais
 ├── LOG_SENDMAILS.log      # Arquivo de log (gerado automaticamente)
